@@ -1,4 +1,4 @@
 ruby-sorcery
 ============
 
-The wonderful wizarding world of ruby.
+Powerful ruby tricks and ideas.
