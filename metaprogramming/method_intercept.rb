@@ -1,3 +1,10 @@
+# --------------------------------------------------------------------------
+# 
+# Name:        MethodTrace
+# Description: Prints before and after traces for all method invocations.
+# Tags:        metaprogramming, callbacks, monkey-patch
+# 
+# --------------------------------------------------------------------------
 module MethodTrace
 
   def before(obj, method_name)
